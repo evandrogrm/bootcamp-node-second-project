@@ -1,6 +1,5 @@
-# bootcamp-node-first-project
-https://skylab.rocketseat.com.br/node/nivel-02/group/construindo-aplicacao/lesson/services-and-solid
-settings.json
+# bootcamp-node-second-project
+https://skylab.rocketseat.com.br/node/iniciando-back-end-do-app/group/banco-de-dados/lesson/configurando-type-ormsettings.json
 
 {
   "breadcrumbs.enabled": true,
