@@ -1,5 +1,5 @@
 # bootcamp-node-second-project
-https://skylab.rocketseat.com.br/node/iniciando-back-end-do-app/group/banco-de-dados/lesson/configurando-type-ormsettings.json
+Continue lesson: https://skylab.rocketseat.com.br/node/iniciando-back-end-do-app/group/autenticacao/lesson/validando-credenciais
 
 {
   "breadcrumbs.enabled": true,
